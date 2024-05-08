@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#header {
+    background-color: lightgrey;   
+    color: brown;
+   
+    
+}
+
+.imgHeader img{width: 80px}
+
+#textoFooter {color: brown}
+
+.imcImg img{border: 3px solid brown;
+border-radius: 30px;
+width: 150px;
+height: 150px}
+
+#main{
+    height: 85vh;
+    background-color: darkslategrey;
+}
+
+#mainContainer {height: 100%;}
+
+#inputEstatura{
+    width: 30%;
+}
+
+#inputPeso{
+    width: 30%;
+}
+
+#inputImc{
+    width: 50%;
+}
+
+
